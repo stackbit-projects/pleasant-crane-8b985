@@ -55,7 +55,7 @@
             {
                 "label": "WEB",
                 "url": "https://www.lavsfantasticfinds.ca/",
-                "style": "icon",
+                "style": "link",
                 "icon_class": "dev",
                 "new_window": true
             }
