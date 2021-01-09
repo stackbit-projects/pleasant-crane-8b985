@@ -10,6 +10,7 @@ thumb_img_path: images/post1.jpg
 content_img_path: images/1.jpg
 template: post
 thumb_img_alt: Care Bear snow globe
+subtitle: Find of the day!
 ---
 
 ![Hiking](/images/2.jpg)
