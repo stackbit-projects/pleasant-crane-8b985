@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Welcome to LaVerne Fantastic Finds!
-img_path: images/about.jpg
+img_path: images/square-mint.jpg
 template: page
 ---
 I love finding treasures!
