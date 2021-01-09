@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: Welcome to LaVerne Fantastic Finds!
 img_path: images/about.jpg
 template: page
 ---
