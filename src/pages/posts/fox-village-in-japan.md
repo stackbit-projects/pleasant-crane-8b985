@@ -1,5 +1,5 @@
 ---
-title: \
+title: ''
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
