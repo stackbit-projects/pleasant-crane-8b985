@@ -53,7 +53,7 @@
                 "new_window": true
             },
             {
-                "label": "Web",
+                "label": "Website",
                 "url": "https://dev.to/",
                 "style": "icon",
                 "icon_class": "dev",
