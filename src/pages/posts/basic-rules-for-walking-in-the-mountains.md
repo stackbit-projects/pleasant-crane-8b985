@@ -5,7 +5,7 @@ excerpt: >-
   walking through dense forest, undergrowth, or bushes, where forward progress
   requires pushing vegetation aside. Thanks for stopping by.    Have a super
   day!!!! 
-date: '2021-01-09'
+date: ''
 thumb_img_path: images/post1.jpg
 content_img_path: images/1.jpg
 template: post
