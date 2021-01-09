@@ -34,5 +34,4 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-
-To get in touch fill the form below.
+Reach out to us and let us know if there is anything we can find for you.
