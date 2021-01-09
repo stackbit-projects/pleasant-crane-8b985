@@ -56,7 +56,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "facebook",
                 "new_window": false,
                 "no_follow": false,
