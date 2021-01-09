@@ -46,14 +46,6 @@
                 "new_window": true
             },
             {
-                "label": "Website",
-                "url": "https://www.lavsfantasticfinds.ca/",
-                "style": "link",
-                "icon_class": "dev",
-                "new_window": true,
-                "no_follow": true
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "icon",
@@ -61,6 +53,14 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Website",
+                "url": "https://www.lavsfantasticfinds.ca/",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": true,
+                "no_follow": true
             }
         ]
     },
