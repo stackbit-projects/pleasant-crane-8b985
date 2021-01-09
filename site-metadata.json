@@ -51,7 +51,7 @@
                 "style": "icon",
                 "icon_class": "facebook",
                 "new_window": false,
-                "no_follow": false,
+                "no_follow": true,
                 "type": "action"
             },
             {
