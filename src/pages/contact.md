@@ -34,4 +34,17 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-Reach out to us and let us know if there is anything we can find for you.
+**Our Address**
+230 St Lawrence Street
+Unit 6
+Merrickville, ON K0G1N0
+Inside the Larkspur Lane Country Mall
+
+**By Email**
+lavsfantasticfinds@outlook.com
+
+**Give us a call**
+(343) 987-2711
+
+
+Reach out to us and let us know if there is anything we can find for you!
