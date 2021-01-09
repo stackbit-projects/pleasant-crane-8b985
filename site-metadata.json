@@ -50,7 +50,7 @@
                 "url": "https://www.facebook.com/lavsfantasticfinds/",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": true,
                 "type": "action"
             },
