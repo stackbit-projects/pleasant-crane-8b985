@@ -23,7 +23,7 @@ excerpt: >-
   may otherwise end up in the landfill.  I believe that everything old is new
   again.
 date: '2020-12-20'
-thumb_img_path: images/4.jpg
+thumb_img_path: images/post2.jpeg
 hide_header: true
 template: post
 ---
