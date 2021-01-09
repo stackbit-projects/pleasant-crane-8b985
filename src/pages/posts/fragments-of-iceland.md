@@ -1,7 +1,7 @@
 ---
 title: ''
 excerpt: ''
-date: '2018-01-09'
+date: ''
 hide_header: true
 template: post
 ---
