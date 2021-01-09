@@ -1,8 +1,8 @@
 ---
 title: Welcome to the world of consignment and cool things.
 subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  Operating a Consignment store during a world wide pandemic is not an easy
+  thing to do.
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
