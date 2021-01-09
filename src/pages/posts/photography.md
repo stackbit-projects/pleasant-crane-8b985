@@ -1,6 +1,6 @@
 ---
 title: ''
-subtitle: A intresting tale about Photography and me
+subtitle: ''
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
