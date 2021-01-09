@@ -2,7 +2,7 @@
 title: ''
 excerpt: ''
 date: ''
-hide_header: true
+hide_header: false
 template: post
 ---
 
